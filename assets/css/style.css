@@ -3,7 +3,7 @@
 }
 
 body{
-    background: url('../images/bcpic.jpg');
+    background: url('../images/bc.png');
     font-size: 18px;
     line-height: 34px;
     font-family: 'arial', 'Helvetica Neve', Helvetica, sans-serif;
@@ -17,7 +17,7 @@ body{
     clear: both;
 }
 
-h1, h2, h3, p {
+h1, h2, h3 {
     margin-bottom: 20px;
 }
 p:last-child{
@@ -56,8 +56,9 @@ h2, h3 {
 }
 
 #logo {
-    width: 250px;
-    height: 90px;
+    margin-left: 10px;
+    width: 20%;
+    height: 5%;
     background: #4aaaa5;
     float: left;
     font-family: 'Georgia', Times, Times New Roman, serif;
